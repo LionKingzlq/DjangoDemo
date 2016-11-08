@@ -1,7 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="812b617a-9bc7-417c-9ace-9593466c006f" name="Default" comment="" />
+    <list default="true" id="812b617a-9bc7-417c-9ace-9593466c006f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/TaurusNormal.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/TaurusNormal.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610171329086541.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610181557196870.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610181739277776.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610241224221511.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610241227558789.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/backtop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/news-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/occupying.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/classic-pattern-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/home-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-1800x600-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-500x250-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-500x250-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-500x250-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-600x300-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-600x300-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-600x300-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-700x350-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-700x350-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-lumino-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-about-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-blog-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-contact-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-home-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-1010x336-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-240x120-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-240x120-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-240x120-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-660x330-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/nprogress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/photo/templatemo-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/templatemo-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/TaurusNormal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/angular-route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/jquery.ias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/jquery.lazyload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/nprogress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/selectivizr-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/index.route.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.singlePageNav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/show.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Photo/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Photo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/common/nav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/food.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/reading.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/sport.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/bootstrap.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/untitled1.iml" afterPath="$PROJECT_DIR$/.idea/DjangoDemo.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/Model/User.py" afterPath="$PROJECT_DIR$/IT/Model/User.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/Model/__init__.py" afterPath="$PROJECT_DIR$/IT/Model/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/__init__.py" afterPath="$PROJECT_DIR$/IT/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/admin.py" afterPath="$PROJECT_DIR$/IT/admin.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/apps.py" afterPath="$PROJECT_DIR$/IT/apps.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/IT/migrations/0001_initial.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/migrations/__init__.py" afterPath="$PROJECT_DIR$/IT/migrations/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/models.py" afterPath="$PROJECT_DIR$/IT/models.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/tests.py" afterPath="$PROJECT_DIR$/IT/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/urls.py" afterPath="$PROJECT_DIR$/IT/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/views.py" afterPath="$PROJECT_DIR$/IT/views.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/Demo/index.html" afterPath="$PROJECT_DIR$/templates/common/bottom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoDemo/settings.py" afterPath="$PROJECT_DIR$/DjangoDemo/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoDemo/urls.py" afterPath="$PROJECT_DIR$/DjangoDemo/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoDemo/views.py" afterPath="$PROJECT_DIR$/DjangoDemo/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+    </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,85 +164,23 @@
     <favorites_list name="untitled1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DjangoDemo/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjangoDemo/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjangoDemo/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2375">
-              <caret line="125" column="60" selection-start-line="125" selection-start-column="54" selection-end-line="125" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DjangoDemo/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -117,17 +192,37 @@
         <option value="$PROJECT_DIR$/DjangoDemo/wsgi.py" />
         <option value="$PROJECT_DIR$/Demo/Model/User.py" />
         <option value="$PROJECT_DIR$/Polls/admin.py" />
-        <option value="$PROJECT_DIR$/templates/Demo/index.html" />
         <option value="$PROJECT_DIR$/DjangoDemo/__init__.py" />
         <option value="$PROJECT_DIR$/Demo/admin.py" />
         <option value="$PROJECT_DIR$/Demo/models.py" />
         <option value="$PROJECT_DIR$/templates/logout.html" />
-        <option value="$PROJECT_DIR$/DjangoDemo/views.py" />
+        <option value="$PROJECT_DIR$/static/css/templatemo-style.css" />
+        <option value="$PROJECT_DIR$/templates/Demo/index.html" />
         <option value="$PROJECT_DIR$/Demo/urls.py" />
         <option value="$PROJECT_DIR$/Demo/views.py" />
-        <option value="$PROJECT_DIR$/DjangoDemo/settings.py" />
+        <option value="$PROJECT_DIR$/Demo/apps.py" />
+        <option value="$PROJECT_DIR$/Demo/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/templates/IT/blog.html" />
+        <option value="$PROJECT_DIR$/static/js/index.route.js" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/DjangoDemo/views.py" />
+        <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/django.po" />
+        <option value="$PROJECT_DIR$/locale/zh_hans/LC_MESSAGES/django.po" />
+        <option value="$PROJECT_DIR$/locale/zh_hant/LC_MESSAGES/django.po" />
+        <option value="$PROJECT_DIR$/templates/IT/index.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/reading.html" />
+        <option value="$PROJECT_DIR$/templates/photo.html" />
+        <option value="$PROJECT_DIR$/templates/food.html" />
+        <option value="$PROJECT_DIR$/templates/sport.html" />
+        <option value="$PROJECT_DIR$/templates/common/nav.html" />
         <option value="$PROJECT_DIR$/DjangoDemo/urls.py" />
+        <option value="$PROJECT_DIR$/DjangoDemo/settings.py" />
+        <option value="$PROJECT_DIR$/static/css/templatemo-style2.css" />
+        <option value="$PROJECT_DIR$/templates/Photo/index.html" />
+        <option value="$PROJECT_DIR$/IT/views.py" />
+        <option value="$PROJECT_DIR$/templates/IT/index2.html" />
       </list>
     </option>
   </component>
@@ -168,6 +263,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -176,62 +273,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DjangoDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,22 +282,24 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\js" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\DjangoDemo" />
-      <recent name="C:\Users\Abraham\PycharmProjects\untitled1\templates\Demo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\templates" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\Polls" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\templates\IT" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\js\blog" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\img\blog" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\font\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\font\photo" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\css\photo" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates/IT" />
+      <recent name="$PROJECT_DIR$/static/img" />
     </key>
   </component>
   <component name="RunManager" selected="Python.__init__">
@@ -584,27 +629,27 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18081991" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26427525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -623,240 +668,108 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DjangoDemo/views.py">
+    <entry file="file://$PROJECT_DIR$/static/img/tm-about-img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-blog-img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-home-img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/img/tm-contact-img.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="220">
+          <caret line="4" column="56521" selection-start-line="4" selection-start-column="56513" selection-end-line="4" selection-end-column="56523" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/Demo/blog.html" />
+    <entry file="file://$PROJECT_DIR$/templates/IT/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoDemo/settings.py">
+    <entry file="file://$PROJECT_DIR$/static/js/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="330">
+          <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/admin.py">
+    <entry file="file://$PROJECT_DIR$/IT/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="353">
+          <caret line="35" column="87" selection-start-line="35" selection-start-column="87" selection-end-line="35" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoDemo/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled1/urls.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/migrations/__init__.py">
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/__init__.py">
+    <entry file="file://$PROJECT_DIR$/static/js/angular-route.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untitled1/settings.py" />
-    <entry file="file://$PROJECT_DIR$/untitled1/urls.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/admin.py">
+    <entry file="file://$PROJECT_DIR$/static/js/index.route.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled1/settings.py" />
-    <entry file="file://$PROJECT_DIR$/untitled1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/untitled1/wsgi.py" />
-    <entry file="file://$PROJECT_DIR$/untitled1/settings.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled1/urls.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/apps.py">
+    <entry file="file://$PROJECT_DIR$/locale/zh_hans/LC_MESSAGES/django.po" />
+    <entry file="file://$PROJECT_DIR$/locale/zh_hant/LC_MESSAGES/django.po" />
+    <entry file="file://$PROJECT_DIR$/locale/en/LC_MESSAGES/django.po" />
+    <entry file="file://$PROJECT_DIR$/IT/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Polls/admin.py" />
-    <entry file="file://$PROJECT_DIR$/Polls/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/Model/User.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoDemo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -867,66 +780,200 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoDemo/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="3" column="2473" selection-start-line="3" selection-start-column="2469" selection-end-line="3" selection-end-column="2473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Photo/columns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DjangoDemo/wsgi.py">
+    <entry file="file://$PROJECT_DIR$/templates/food.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="187" column="55" selection-start-line="187" selection-start-column="55" selection-end-line="187" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/reading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/font/photo/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <caret line="3" column="1644" selection-start-line="3" selection-start-column="1644" selection-end-line="3" selection-end-column="1644" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DjangoDemo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2375">
-          <caret line="125" column="60" selection-start-line="125" selection-start-column="54" selection-end-line="125" selection-end-column="60" />
-          <folding />
+        <state relative-caret-position="457">
+          <caret line="150" column="65" selection-start-line="150" selection-start-column="65" selection-end-line="150" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.js">
+    <entry file="file://$PROJECT_DIR$/static/css/templatemo-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="73" column="23" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/photo/templatemo-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/blog/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/IT/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DjangoDemo/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="32" column="80" selection-start-line="32" selection-start-column="80" selection-end-line="32" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/blog/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/blog/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="126" column="6" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/IT/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IT/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IT/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/IT/show.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Photo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DjangoDemo/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="19">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/utf8-jsp/jsp/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="78" column="32" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/utf8-jsp/jsp/controller.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>

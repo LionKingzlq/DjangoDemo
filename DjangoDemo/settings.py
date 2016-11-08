@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 Django settings for untitled1 project.
 
@@ -37,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Demo',
+    'IT',
 ]
 
 MIDDLEWARE = [
@@ -45,10 +46,28 @@ MIDDLEWARE = [
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
+    'django.middleware.locale.LocaleMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+LANGUAGE_CODE = 'en'
+TIME_ZONE = 'UTC'
+USE_I18N = True
+USE_L10N = True
+USE_TZ = True
+
+LANGUAGES = (
+    ('en', ('English')),
+    ('zh-hans', ("中文简体")),
+    ('zh-hant', ("中文繁體")),
+)
+
+#翻译文件所在的目录，需要手工创建
+LOCALE_PATHS = (
+    os.path.join(BASE_DIR, 'locale'),
+)
 
 ROOT_URLCONF = 'DjangoDemo.urls'
 
@@ -123,12 +142,13 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
-STATIC_ROOT = os.path.join(os.path.dirname(__file__),'static')
+STATIC_ROOT = os.path.join(os.path.dirname(__file__),"..","static")
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
     ('css',os.path.join(STATIC_ROOT,'css').replace('\\','/') ),
     ('js',os.path.join(STATIC_ROOT,'js').replace('\\','/') ),
-    ('images',os.path.join(STATIC_ROOT,'images').replace('\\','/') ),
+    ('font',os.path.join(STATIC_ROOT,'font').replace('\\','/') ),
+    ('img',os.path.join(STATIC_ROOT,'img').replace('\\','/') ),
     ('upload',os.path.join(STATIC_ROOT,'upload').replace('\\','/') ),
 )
