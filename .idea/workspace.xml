@@ -2,142 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812b617a-9bc7-417c-9ace-9593466c006f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/TaurusNormal.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/TaurusNormal.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610171329086541.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610181557196870.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610181739277776.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610241224221511.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/201610241227558789.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/ad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/news-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/blog/occupying.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/classic-pattern-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/home-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-1800x600-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-450x300-12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-500x250-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-500x250-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-500x250-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-600x300-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-600x300-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-600x300-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-700x350-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-700x350-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/photo/tm-lumino-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-about-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-blog-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-contact-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-home-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-100x100-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-1010x336-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-240x120-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-240x120-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-240x120-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-310x180-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/tm-img-660x330-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/nprogress.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/photo/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/templatemo-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/TaurusNormal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/blog/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/font/photo/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/html5shiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/jquery.ias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/jquery.lazyload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/nprogress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/blog/selectivizr-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/index.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.singlePageNav.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/tether.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/index2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/show.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Photo/columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Photo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/common/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/food.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/reading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/sport.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/js/bootstrap.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/untitled1.iml" afterPath="$PROJECT_DIR$/.idea/DjangoDemo.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/Model/User.py" afterPath="$PROJECT_DIR$/IT/Model/User.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/Model/__init__.py" afterPath="$PROJECT_DIR$/IT/Model/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/__init__.py" afterPath="$PROJECT_DIR$/IT/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/admin.py" afterPath="$PROJECT_DIR$/IT/admin.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/apps.py" afterPath="$PROJECT_DIR$/IT/apps.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/IT/migrations/0001_initial.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/migrations/__init__.py" afterPath="$PROJECT_DIR$/IT/migrations/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/models.py" afterPath="$PROJECT_DIR$/IT/models.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/tests.py" afterPath="$PROJECT_DIR$/IT/tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/urls.py" afterPath="$PROJECT_DIR$/IT/urls.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Demo/views.py" afterPath="$PROJECT_DIR$/IT/views.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/Demo/index.html" afterPath="$PROJECT_DIR$/templates/common/bottom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/IT/nav.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoDemo/settings.py" afterPath="$PROJECT_DIR$/DjangoDemo/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoDemo/urls.py" afterPath="$PROJECT_DIR$/DjangoDemo/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DjangoDemo/views.py" afterPath="$PROJECT_DIR$/DjangoDemo/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/IT/Admin/index.html" afterPath="$PROJECT_DIR$/templates/IT/Admin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/IT/index2.html" afterPath="$PROJECT_DIR$/templates/IT/index2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/common/bottom.html" afterPath="$PROJECT_DIR$/templates/common/bottom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/common/nav.html" afterPath="$PROJECT_DIR$/templates/common/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/food.html" afterPath="$PROJECT_DIR$/templates/food.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/photo.html" afterPath="$PROJECT_DIR$/templates/photo.html" />
     </list>
     <ignored path="untitled1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -164,7 +37,30 @@
     <favorites_list name="untitled1" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="bottom.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/common/bottom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="87" column="74" selection-start-line="87" selection-start-column="74" selection-end-line="87" selection-end-column="74" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -181,6 +77,12 @@
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -204,25 +106,28 @@
         <option value="$PROJECT_DIR$/Demo/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/templates/IT/blog.html" />
         <option value="$PROJECT_DIR$/static/js/index.route.js" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/DjangoDemo/views.py" />
         <option value="$PROJECT_DIR$/locale/en/LC_MESSAGES/django.po" />
         <option value="$PROJECT_DIR$/locale/zh_hans/LC_MESSAGES/django.po" />
         <option value="$PROJECT_DIR$/locale/zh_hant/LC_MESSAGES/django.po" />
         <option value="$PROJECT_DIR$/templates/IT/index.html" />
         <option value="$PROJECT_DIR$/templates/about.html" />
-        <option value="$PROJECT_DIR$/templates/contact.html" />
-        <option value="$PROJECT_DIR$/templates/reading.html" />
-        <option value="$PROJECT_DIR$/templates/photo.html" />
-        <option value="$PROJECT_DIR$/templates/food.html" />
-        <option value="$PROJECT_DIR$/templates/sport.html" />
-        <option value="$PROJECT_DIR$/templates/common/nav.html" />
         <option value="$PROJECT_DIR$/DjangoDemo/urls.py" />
         <option value="$PROJECT_DIR$/DjangoDemo/settings.py" />
         <option value="$PROJECT_DIR$/static/css/templatemo-style2.css" />
         <option value="$PROJECT_DIR$/templates/Photo/index.html" />
         <option value="$PROJECT_DIR$/IT/views.py" />
+        <option value="$PROJECT_DIR$/templates/sport.html" />
+        <option value="$PROJECT_DIR$/templates/reading.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/common/nav.html" />
+        <option value="$PROJECT_DIR$/templates/food.html" />
+        <option value="$PROJECT_DIR$/templates/photo.html" />
         <option value="$PROJECT_DIR$/templates/IT/index2.html" />
+        <option value="$PROJECT_DIR$/templates/IT/nav.html" />
+        <option value="$PROJECT_DIR$/templates/IT/Admin/index.html" />
+        <option value="$PROJECT_DIR$/templates/common/bottom.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -248,6 +153,9 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -263,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -273,8 +180,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DjangoDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,19 +205,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\templates\IT" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\js\blog" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\img\blog" />
-      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\font\blog" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\font\photo" />
       <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\css\photo" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/templates/IT" />
       <recent name="$PROJECT_DIR$/static/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\templates\IT" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\js\blog" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\img\blog" />
+      <recent name="C:\Users\Abraham\PycharmProjects\DjangoDemo\static\font\blog" />
     </key>
   </component>
   <component name="RunManager" selected="Python.__init__">
@@ -621,6 +539,14 @@
       <option name="presentableId" value="Default" />
       <updated>1476780312439</updated>
     </task>
+    <task id="LOCAL-00001" summary="页面冲突">
+      <created>1478584292738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478584292738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -636,7 +562,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -663,31 +589,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="页面冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="页面冲突" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/img/tm-about-img.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/tm-blog-img.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/img/tm-img-100x100-3.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -780,13 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/jquery.magnific-popup.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -798,55 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/common/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/sport.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/food.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="187" column="55" selection-start-line="187" selection-start-column="55" selection-end-line="187" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/reading.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -921,13 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/IT/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IT/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -974,6 +821,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/.food.html.swp" />
+    <entry file="file://$PROJECT_DIR$/templates/sport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/reading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/food.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/IT/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/IT/Admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/IT/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="27" column="83" selection-start-line="27" selection-start-column="83" selection-end-line="27" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/common/bottom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="87" column="74" selection-start-line="87" selection-start-column="74" selection-end-line="87" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
