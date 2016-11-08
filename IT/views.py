@@ -16,7 +16,11 @@ def index(request):
     context['question'] = Question.objects.all()
     context['hello'] = ugettext('hello')
     context['world'] = ugettext('world!')
+<<<<<<< HEAD
     return render(request, "IT/index2.html", context)
+=======
+    return render(request, "IT/index.html", context)
+>>>>>>> b6ed3cb0427fc3b30fe2f4b569908246cfec5690
 
 
 def test(request):

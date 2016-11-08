@@ -148,7 +148,10 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     ('css',os.path.join(STATIC_ROOT,'css').replace('\\','/') ),
     ('js',os.path.join(STATIC_ROOT,'js').replace('\\','/') ),
+<<<<<<< HEAD
     ('font',os.path.join(STATIC_ROOT,'font').replace('\\','/') ),
+=======
+>>>>>>> b6ed3cb0427fc3b30fe2f4b569908246cfec5690
     ('img',os.path.join(STATIC_ROOT,'img').replace('\\','/') ),
     ('upload',os.path.join(STATIC_ROOT,'upload').replace('\\','/') ),
 )
