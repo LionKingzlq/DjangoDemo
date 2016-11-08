@@ -29,13 +29,10 @@ urlpatterns = [
 
                   url(r'^IT/', include('IT.urls')),
 
-<<<<<<< HEAD
                   url('^food$', TemplateView.as_view(template_name='food.html')),
                   url('^photo$', TemplateView.as_view(template_name='Photo/index.html')),
-=======
                   url('^food$', TemplateView.as_view(template_name='sport.html')),
                   url('^photo$', TemplateView.as_view(template_name='photo.html')),
->>>>>>> b6ed3cb0427fc3b30fe2f4b569908246cfec5690
                   url('^sport$', TemplateView.as_view(template_name='sport.html')),
                   url('^reading$', TemplateView.as_view(template_name='reading.html')),
                   url('^contact$', TemplateView.as_view(template_name='contact.html')),
