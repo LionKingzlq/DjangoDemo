@@ -29,6 +29,8 @@ urlpatterns = [
 
                   url(r'^IT/', include('IT.urls')),
 
+                  url('^food$', TemplateView.as_view(template_name='food.html')),
+                  url('^photo$', TemplateView.as_view(template_name='Photo/index.html')),
                   url('^food$', TemplateView.as_view(template_name='sport.html')),
                   url('^photo$', TemplateView.as_view(template_name='photo.html')),
                   url('^sport$', TemplateView.as_view(template_name='sport.html')),

@@ -148,6 +148,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = (
     ('css',os.path.join(STATIC_ROOT,'css').replace('\\','/') ),
     ('js',os.path.join(STATIC_ROOT,'js').replace('\\','/') ),
+    ('font',os.path.join(STATIC_ROOT,'font').replace('\\','/') ),
     ('img',os.path.join(STATIC_ROOT,'img').replace('\\','/') ),
     ('upload',os.path.join(STATIC_ROOT,'upload').replace('\\','/') ),
 )
