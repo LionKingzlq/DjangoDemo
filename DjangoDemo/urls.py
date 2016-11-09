@@ -27,7 +27,7 @@ urlpatterns = [
 
                   url(r'^$', views.index),
 
-                  url(r'^IT/', include('IT.urls')),
+                  url(r'^blog/', include('Blog.urls')),
 
                   url('^food$', TemplateView.as_view(template_name='food.html')),
                   url('^photo$', TemplateView.as_view(template_name='Photo/index.html')),

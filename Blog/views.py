@@ -2,7 +2,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
-from IT.models import Question, Choice
+from Blog.models import Question, Choice
 
 from django.utils.translation import ugettext
 
@@ -16,8 +16,8 @@ def index(request):
     context['question'] = Question.objects.all()
     context['hello'] = ugettext('hello')
     context['world'] = ugettext('world!')
-    return render(request, "IT/index2.html", context)
-    return render(request, "IT/index.html", context)
+    return render(request, "blog/index2.html", context)
+    return render(request, "blog/index.html", context)
 
 
 def test(request):
