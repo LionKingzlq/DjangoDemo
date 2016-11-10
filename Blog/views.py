@@ -1,13 +1,12 @@
 # coding:utf-8
-from django.shortcuts import render
+import json
+import os
+
 from django.http import HttpResponse
-
-from Blog.models import Question, Choice
-
+from django.shortcuts import render
 from django.utils.translation import ugettext
 
-import os
-import json
+from Blog.Model.models import Question
 
 
 def index(request):
