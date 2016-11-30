@@ -36,6 +36,7 @@ urlpatterns = [
                   url('^sport$', TemplateView.as_view(template_name='sport.html')),
                   url('^reading$', TemplateView.as_view(template_name='reading.html')),
                   url('^contact$', TemplateView.as_view(template_name='contact.html')),
+                  url('^test$', views.test),
 
                   url(r'^admin/', admin.site.urls),
                   url('^logout/$', TemplateView.as_view(template_name='logout.html')),

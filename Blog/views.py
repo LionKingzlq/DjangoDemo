@@ -15,9 +15,7 @@ def index(request):
     context['question'] = Question.objects.all()
     context['hello'] = ugettext('hello')
     context['world'] = ugettext('world!')
-    return render(request, "blog/index2.html", context)
     return render(request, "blog/index.html", context)
-
 
 def add(request):
     data = json.loads(request.body.decode())
